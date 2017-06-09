@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PermissionManager_Example' do
+  pod 'PermissionManager', :path => '../'
+
+  target 'PermissionManager_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
