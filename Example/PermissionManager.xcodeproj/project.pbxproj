@@ -61,12 +61,12 @@
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		779827A5AF946D24275D1322 /* Pods-PermissionManager_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PermissionManager_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-PermissionManager_Example/Pods-PermissionManager_Example.release.xcconfig"; sourceTree = "<group>"; };
-		826702880ED828B759B0C9B2 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		826702880ED828B759B0C9B2 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		827BE507AF2C1975F7FFEC66 /* Pods_PermissionManager_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PermissionManager_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E9C46B05BFB87D6FC9176E88 /* Pods-PermissionManager_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PermissionManager_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-PermissionManager_Tests/Pods-PermissionManager_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		F2FEC6EC056D09461F6DD79C /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		F61637F8E79F165015A72611 /* PermissionManager.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = PermissionManager.podspec; path = ../PermissionManager.podspec; sourceTree = "<group>"; };
+		F2FEC6EC056D09461F6DD79C /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		F61637F8E79F165015A72611 /* PermissionManager.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = PermissionManager.podspec; path = ../PermissionManager.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
